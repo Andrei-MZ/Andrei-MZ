@@ -1,10 +1,10 @@
-### Olá eu sou o Andrei 🤠🤙
+### Hello, I am Andrei 🤠🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-zebrowski/)
 
 ![Andrei GitHub stats](https://github-readme-stats.vercel.app/api?username=andreimz&show_icons=true&theme=dark)
 
-## Tecnologias que eu uso no meu dia 
+## Technologies I use in my day
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
